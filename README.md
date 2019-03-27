@@ -28,7 +28,7 @@ Code the bridge between them and the application in javascript.
 
 ## Valid and well-formed XML files
 
-![image](https://i.gyazo.com/24dfaaab34ff034e2f36d5b6f66b4776.png)
+![image](https://i.gyazo.com/3817ab69c3d365a6b904c4c76a0cd5c4.png)
 ![image](https://i.gyazo.com/4e7c1a6e44d1e20768d637602bc5338b.png)
 
 ## Built With
