@@ -24,37 +24,20 @@ If you want to use them, you'll need to do:
 Code the bridge between them and the application in javascript.
 ```
 
-![alt text](https://i.gyazo.com/24dfaaab34ff034e2f36d5b6f66b4776.png)
+![image](https://i.gyazo.com/24dfaaab34ff034e2f36d5b6f66b4776.png)
 
-## Running the tests
+## Valid and well-formed XML files
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+![image](https://i.gyazo.com/24dfaaab34ff034e2f36d5b6f66b4776.png)
+![image](https://i.gyazo.com/4e7c1a6e44d1e20768d637602bc5338b.png)
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [html](https://www.w3schools.com/html/) - The web framework used
+* [css](https://www.w3schools.com/css/) - Dependency Management
+* [javascript](https://www.w3schools.com/js/) - Used to generate RSS Feeds
+* [xml](https://www.w3schools.com/xml/) - Used to generate RSS Feeds
+* [xsd](https://www.w3schools.com/xml/schema_intro.asp) - Used to generate RSS Feeds
 
 ## Contributing
 
