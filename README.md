@@ -1,5 +1,8 @@
 # Corruptología
+
+```
 An application about corruption cases. The application is a recopilation of a lot corruption cases occured in Spain, where users can propose new information, complaints and suggestions.
+```
 
 ## Getting Started
 
@@ -58,3 +61,12 @@ See also the list of [contributors](https://github.com/doriveramirez/Actividad6/
 * https://www.w3schools.com/: Thanks to the tutorials that they allowed for all of us.
 * https://stackoverflow.com/: Thanks to the all doubts that had a few users that have helped me.
 * [Tiburcio Cruz Ravelo](https://github.com/tcrurav): Thanks to my professor that teached me how to do this.
+
+## Questions
+
+**Is the marked language [Markdown](https://es.wikipedia.org/wiki/Markdown) a brand language?**
+Yes, Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
+
+**Does it accomplish with the basic sintax of the brand languages?**
+“Markdown” is a plain text formatting syntax, and a software tool, written in Perl, that converts the plain text formatting to HTML.
+The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible.
