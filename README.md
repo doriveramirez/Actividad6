@@ -33,29 +33,17 @@ Code the bridge between them and the application in javascript.
 
 ## Built With
 
-* [html](https://www.w3schools.com/html/) - The web framework used
-* [css](https://www.w3schools.com/css/) - Dependency Management
-* [javascript](https://www.w3schools.com/js/) - Used to generate RSS Feeds
-* [xml](https://www.w3schools.com/xml/) - Used to generate RSS Feeds
-* [xsd](https://www.w3schools.com/xml/schema_intro.asp) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [HTML](https://www.w3schools.com/html/) - The web framework used
+* [CSS](https://www.w3schools.com/css/) - Dependency Management
+* [JAVASCRIPT](https://www.w3schools.com/js/) - Used to generate RSS Feeds
+* [XML](https://www.w3schools.com/xml/) - Used to generate RSS Feeds
+* [XSD](https://www.w3schools.com/xml/schema_intro.asp) - Used to generate RSS Feeds
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **David Orive** - *Initial work* - [doriveramirez](https://github.com/doriveramirez)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+See also the list of [contributors](https://github.com/doriveramirez/Actividad6/contributors) who participated in this project.
 
 ## Acknowledgments
 
