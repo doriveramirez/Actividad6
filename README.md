@@ -64,7 +64,7 @@ See also the list of [contributors](https://github.com/doriveramirez/Actividad6/
 ## Questions
 
 **Is the marked language [Markdown](https://es.wikipedia.org/wiki/Markdown), a brand language?** <br />
-Yes, Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
+Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
 
 **Does it accomplish with the basic sintax of the brand languages?** <br />
 “Markdown” is a plain text formatting syntax, and a software tool, written in Perl, that converts the plain text formatting to HTML.
