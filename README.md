@@ -24,13 +24,7 @@ If you want to use them, you'll need to do:
 Code the bridge between them and the application in javascript.
 ```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+![alt text](https://i.gyazo.com/24dfaaab34ff034e2f36d5b6f66b4776.png)
 
 ## Running the tests
 
