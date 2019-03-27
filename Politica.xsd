@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="https://www.David.com/Politica"
+           xmlns="https://www.David.com/Politica"
+           elementFormDefault="qualified">
+
+    <xs:element name="contactos">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="contacto" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="contacto">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="datosUsuario"/>
+                <xs:element ref="datosInformacion"/>
+            </xs:sequence>
+            <xs:attribute name="motivo" type="motivoTipo"/>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="datosUsuario">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="nombre"/>
+                <xs:element ref="apellidos"/>
+                <xs:element ref="edad"/>
+                <xs:element ref="email"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="nombre" type="xs:string"/>
+    <xs:element name="apellidos" type="xs:string"/>
+    <xs:element name="edad" type="xs:int"/>
+    <xs:element name="email" type="xs:string"/>
+    
+    <xs:element name="datosInformacion">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="partidoPolitico"/>
+                <xs:element ref="descripcion"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="partidoPolitico" type="xs:string"/>
+    <xs:element name="descripcion" type="xs:string"/>
+    
+    <xs:simpleType name="motivoTipo">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="nuevaInformacion"/>
+            <xs:enumeration value="sugerencia"/>
+            <xs:enumeration value="queja"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:element name="casosCorrupcion">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="casoCorrupcion" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="casoCorrupcion">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="id"/>
+                <xs:element ref="datos"/>
+                <xs:element ref="informacion"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="id" type="xs:int"/>
+    
+    <xs:element name="datos">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="partido"/>
+                <xs:element ref="lugar"/>
+                <xs:element ref="costeAproximado"/>
+                <xs:element ref="implicados"/>
+                <xs:element ref="anoHechos"/>
+                <xs:element ref="estado"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="partido" type="xs:string"/>
+    <xs:element name="lugar" type="xs:string"/>
+    <xs:element name="costeAproximado" type="xs:int"/>
+    <xs:element name="implicados" type="xs:int"/>
+    <xs:element name="anoHechos" type="xs:int"/>
+    <xs:element name="estado" type="xs:string"/>
+    
+    <xs:element name="informacion" type="xs:string"/>
+    
+</xs:schema>

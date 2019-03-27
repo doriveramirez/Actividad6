@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<contactos xmlns="https://www.David.com/Politica"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="https://www.David.com/Politica Politica.xsd">
+    <contacto motivo="queja">
+        <datosUsuario>
+            <nombre>Roberto</nombre>
+            <apellidos>Ascanio Falcón</apellidos>
+            <edad>28</edad>
+            <email>hola@gmail.com</email>
+        </datosUsuario>
+        <datosInformacion>
+            <partidoPolitico>PP</partidoPolitico>
+            <descripcion>
+                La información adjuntada en el Caso Pokemon no es del todo correcta,
+                presentan financiación distinta a la real.
+            </descripcion>
+        </datosInformacion> 
+    </contacto>
+    <contacto motivo="nuevaInformacion">
+        <datosUsuario>
+            <nombre>David</nombre>
+            <apellidos>Orive Ramírez</apellidos>
+            <edad>21</edad>
+            <email>adios@gmail.com</email>
+        </datosUsuario>
+        <datosInformacion>
+            <partidoPolitico>PSOE</partidoPolitico>
+            <descripcion>
+                El juez Javier Alba afirma que hay indicios claros de que Antonio Gutiérrez Limones, 
+                portavoz de la Comisión de Exteriores en el Congreso del PSOE 
+                ha podido cometer delitos de prevaricación, falsedad documental y malversación de caudales públicos.
+                Gutiérrez Limones, hombre de Susana Díaz en la cámara, no ha comunicado aún su renuncia.
+            </descripcion>
+        </datosInformacion> 
+    </contacto>
+    <contacto motivo="sugerencia">
+        <datosUsuario>
+            <nombre>Juanmi</nombre>
+            <apellidos>Pérez Gutierrez</apellidos>
+            <edad>35</edad>
+            <email>buenas@gmail.com</email>
+        </datosUsuario>
+        <datosInformacion>
+            <partidoPolitico>Podemos</partidoPolitico>
+            <descripcion>
+                Debería haber información de cosas buenas, además de las malas noticias.
+            </descripcion>
+        </datosInformacion> 
+    </contacto>
+</contactos>

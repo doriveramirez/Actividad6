@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<casosCorrupcion xmlns="https://www.David.com/Politica"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="https://www.David.com/Politica Politica.xsd">
+    <casoCorrupcion>
+        <id>1</id>
+        <datos>
+            <partido>PP</partido>
+            <lugar>Comunidad de Madrid</lugar>
+            <costeAproximado>56000000</costeAproximado>
+            <implicados>3</implicados>
+            <anoHechos>2013</anoHechos>
+            <estado>Abierto</estado>
+        </datos>
+        <informacion>
+            Tres días después, Bárcenas acudió a declarar a la Fiscalía Anticorrupción 
+            y negó la existencia de cuentas ocultas en el PP y que él fuera el responsable.
+        </informacion>
+    </casoCorrupcion>
+    <casoCorrupcion>
+        <id>2</id>
+        <datos>
+            <partido>PP-PSOE</partido>
+            <lugar>Galicia</lugar>
+            <costeAproximado>1882155745</costeAproximado>
+            <implicados>100</implicados>
+            <anoHechos>2012</anoHechos>
+            <estado>Abierto</estado>
+        </datos>
+        <informacion>
+            De Lara lo imputó en febrero de 2013 y envió la pieza a un juzgado de O Carballiño.
+        </informacion>
+    </casoCorrupcion>
+</casosCorrupcion>
