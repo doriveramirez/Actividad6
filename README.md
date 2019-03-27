@@ -14,7 +14,8 @@ If you want to use them, you'll need to have one of these:
 
 ```
 * A phone
-* 
+* A computer
+* Any dispositive that let you connect to internet
 ```
 
 ### Installing
