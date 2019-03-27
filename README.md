@@ -45,6 +45,7 @@ Code the bridge between them and the application in javascript.
 * [JAVASCRIPT](https://www.w3schools.com/js/) - The code used in the web, it includes the bridge between the application and the webpage (XML files).
 * [XML](https://www.w3schools.com/xml/) - Used as a bridge to send the information.
 * [XSD](https://www.w3schools.com/xml/schema_intro.asp) - Used to validate the information in the previous XML files.
+* [MARKDOWN](https://es.wikipedia.org/wiki/Markdown) - Used to write this readme.md.
 
 ## Authors
 
