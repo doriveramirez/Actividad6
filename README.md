@@ -49,7 +49,7 @@ Code the bridge between them and the application in javascript.
 
 ## Authors
 
-* **David Miguel Orive Ramírez** - *1º DAM* - [doriveramirez](https://github.com/doriveramirez)
+* **David Miguel Orive Ramírez** - [doriveramirez](https://github.com/doriveramirez)
 
 See also the list of [contributors](https://github.com/doriveramirez/Actividad6/contributors) who participated in this project.
 
