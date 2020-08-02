@@ -51,15 +51,13 @@ Code the bridge between them and the application in javascript.
 
 * **David Miguel Orive Ramírez** - [doriveramirez](https://github.com/doriveramirez)
 
-See also the list of [contributors](https://github.com/doriveramirez/Actividad6/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/doriveramirez/xml_xsd_Corruptologia/graphs/contributors) who participated in this project.
 
 ## Acknowledgments
 
 * https://www.casos-aislados.com/: Thanks to the information which they allowed for all of us.
-* http://www3.gobiernodecanarias.org/medusa: Thanks to the tutorials which the professors upload to us.
 * https://www.w3schools.com/: Thanks to the tutorials that they allowed for all of us.
 * https://stackoverflow.com/: Thanks to the all doubts that had a few users that have helped me.
-* [Tiburcio Cruz Ravelo](https://github.com/tcrurav): Thanks to my professor that teached me how to do this.
 
 ## Questions
 
